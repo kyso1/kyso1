@@ -1,0 +1,6 @@
+- 👋 Sup, my nick is Kyso!
+- 👀 Im a brazilian computer science student, currently on the 2nd period.
+- 🌱 I like to learn some programming things and the funcionality of API's
+- 📫 Contacts:
+  - Twitter: agxnia
+  - Discord: agonised
