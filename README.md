@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/kyso1](https://github.com/kyso1).
 
-- 📫 How to reach me: **Discord: agonised**.
+- 📫 How to reach me: **Discord: agonised** or **Email: [your-email@example.com]**.
 
 - 💼 Connect with me on [LinkedIn](https://www.linkedin.com/in/gian-silva-a04326259/) to explore potential collaborations or opportunities.
 
@@ -49,11 +49,7 @@
   <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> 
 </p>
 
-<h3 align="left">Most Used Languages:</h3>
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kyso1&layout=compact&theme=dark&bg_color=000000&title_color=00ff00&text_color=ffffff" alt="kyso1" />
-</p>
+<h3 align="left">Stats and Most Used Languages:</h3>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kyso1&show_icons=true&theme=dark&bg_color=000000&title_color=00ff00&text_color=ffffff&locale=en" alt="kyso1" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kyso1&theme=dark&background=000000&stroke=00ff00&ring=00ff00&fire=00ff00&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff" alt="kyso1" /></p>
+| ![Gian's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kyso1&show_icons=true&theme=dark&bg_color=000000&title_color=00ff00&text_color=ffffff&locale=en&hide_border=true&include_all_commits=true&count_private=true&custom_title=My%20GitHub%20Stats) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kyso1&layout=compact&theme=dark&bg_color=000000&title_color=00ff00&text_color=ffffff&hide_border=true) |
+|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
