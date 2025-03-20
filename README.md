@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/kyso1](https://github.com/kyso1).
 
-- 📫 How to reach me: **Discord: agonised** or **Email: [your-email@example.com]**.
+- 📫 How to reach me: **Discord: agonised**.
 
 - 💼 Connect with me on [LinkedIn](https://www.linkedin.com/in/gian-silva-a04326259/) to explore potential collaborations or opportunities.
 
