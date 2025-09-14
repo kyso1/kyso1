@@ -13,13 +13,11 @@
 
 - 📫 How to reach me: **Discord: agonised**.
 
-- 💼 Connect with me on [LinkedIn](https://www.linkedin.com/in/gian-silva-a04326259/) to explore potential collaborations or opportunities.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/agonisedtxt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="agonisedtxt" height="30" width="40" /></a>
 <a href="https://instagram.com/kysozin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kysozin" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/gian-silva-a04326259/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gian-silva" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
