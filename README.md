@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kyso1&theme=onedark" alt="kyso1" /></a> </p>
 
-- 🔭 I’m currently working on [my Pengu Loader theme](https://github.com/kyso1/KysoTheme).
+- 🔭 I’m currently working on my TCC, so i'll be kinda off here.
 
 - 🌱 I’m currently learning **Ionic, Laravel, and Spring Boot** to expand my skill set in web and mobile development.
 
