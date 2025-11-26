@@ -71,8 +71,8 @@
 
 <div align="center">
   <a href="https://github.com/kyso1">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kyso1&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&custom_title=Estatísticas%20do%20Gian" alt="Gian's Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kyso1&layout=compact&theme=radical&hide_border=true&langs_count=8&exclude_repo=github-readme-stats" alt="Top Languages" />
+    <img height="150" src="https://github-readme-stats.vercel.app/api?username=kyso1&show_icons=true&theme=radical&count_private=true&hide_border=true&custom_title=Estatísticas&bg_color=0d1117" alt="Gian's Stats" />
+    <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kyso1&layout=compact&theme=radical&hide_border=true&langs_count=6&exclude_repo=github-readme-stats&bg_color=0d1117" alt="Top Languages" />
   </a>
 </div>
 
