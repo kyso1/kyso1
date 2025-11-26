@@ -1,3 +1,9 @@
+<div align="right">
+  <a href="README-EN.md">
+    <img src="https://img.shields.io/badge/English-USA-2E0249?style=for-the-badge&logo=usa&logoColor=white" alt="English Version"/>
+  </a>
+</div>
+
 <div align="center">
   <img src="https://placehold.co/800x180/2E0249/E0C0FF.png?text=GIAN+SILVA%0AComputer+Science+Student+%7C+Backend+%26+AI&font=montserrat" alt="Banner Gian Silva" width="100%" style="border-radius: 15px;"/>
 </div>
