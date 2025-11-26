@@ -29,7 +29,7 @@
   
 | 🔭 Atualmente trabalhando | 🌱 Aprendendo | 👨‍💻 Portfólio | 📫 Contato |
 | :---: | :---: | :---: | :---: |
-| API REST Project | Ionic, Laravel, Spring Boot | [github.com/kyso1](https://github.com/kyso1) | Discord: **agonised** |
+| [API REST Project](https://github.com/kyso1/EcommerceAPI/tree/main) | Ionic, Laravel, Spring Boot | [github.com/kyso1](https://github.com/kyso1) | Discord: **agonised** |
 
 </div>
 
