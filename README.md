@@ -17,10 +17,6 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=kyso1&label=Views&color=8a2be2&style=flat-square" alt="kyso1 views" />
-  &nbsp; &nbsp;
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=kyso1&theme=radical&no-frame=true&margin-w=10&margin-h=10" alt="kyso1 trophies" height="110"/>
-  </a>
 </p>
 
 <br>
