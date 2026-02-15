@@ -1,0 +1,88 @@
+# config.yml para kyso1
+username: kyso1
+
+profile:
+  name: "Gian Silva"
+  tagline: "Computer Science Student | Fullstack & AI"
+  company: "UNIMED" # Ou coloque sua universidade
+  location: "Brazil"
+  bio: |
+    Bem-vindo ao meu universo de código!
+    Focado em desenvolvimento Fullstack e Inteligência Artificial.
+  philosophy: '"Code is the language of the future."'
+
+social:
+  email: "giansilva021204@gmail.com" 
+  linkedin: "gian-silva-dev"       
+  website: "https://github.com/kyso1"
+
+galaxy_arms:
+  - name: "Core & Backend"
+    color: "dendrite_violet" 
+    items:
+      - "Java"
+      - "Spring Boot"
+      - "Python"
+      - "Node.js"
+      - "Flask"
+  - name: "Data & AI"
+    color: "synapse_cyan"   
+    items:
+      - "TensorFlow"
+      - "PyTorch"
+      - "Pandas"
+      - "Scikit-learn"
+  - name: "Infra & DB"
+    color: "axon_amber"     
+    items:
+      - "AWS"
+      - "Docker"
+      - "PostgreSQL"
+      - "MongoDB"
+      - "Git"
+  - name: "Front-end"
+    color: "star_dust"     
+    items:
+      - "React"
+      - "Vue.js"
+      - "HTML"
+      - "CSS"
+      - "JavaScript"
+      - "Fluig"
+
+projects:
+  - repo: "kyso1/EcommerceAPI"
+    arm: 0
+    description: "API REST completa desenvolvida com foco em escalabilidade."
+  - repo: "kyso1/FinancialController"
+    arm: 1
+    description: "Uma aplicação web robusta e intuitiva para gestão de finanças pessoais, permitindo controle de gastos, receitas, visualização de gráficos e compartilhamento de despesas entre usuários. "
+  - repo: "kyso1/covenant-of-scars"
+    arm: 2
+    description: "Projeto de um metroidvania 2D de ação e aventura, em um mundo de fantasia sombrio. "
+
+theme:
+  void: "#0d1117"              
+  nebula: "#161b22"           
+  star_dust: "#30363d"         
+  synapse_cyan: "#00d4ff"      
+  dendrite_violet: "#8a2be2" 
+  axon_amber: "#ffb020"      
+  text_bright: "#f0f6fc"
+  text_dim: "#8b949e"
+  text_faint: "#6e7681"
+
+stats:
+  metrics:
+    - "commits"
+    - "stars"
+    - "prs"
+    - "issues"
+    - "repos"
+
+languages:
+  exclude:
+    - "HTML"
+    - "CSS"
+    - "Jupyter Notebook"
+  max_display: 8
